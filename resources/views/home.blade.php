@@ -1,0 +1,1 @@
+@extends('buyer.template.master')
